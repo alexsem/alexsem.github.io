@@ -4,5 +4,5 @@ This is a site I use to document some of the things I am currently working on. M
 ## Who is this site for?
 For developers or people learning from everywhere. I'll divide the content by flavor of NoSQL, ML or Big Data. You won't find content about web development or so, maybe a bit about how to build APIs. As I keep adding content, a basic list with the links will be added below.
 
-If you have doubts or questions, you can contact me through github or through Twitter in @AlejandroSempri [Link](https://twitter.com/AlejandroSempri) (I speak Spanish and English).
+If you have doubts or questions, you can contact me through [github](https://github.com/alexsem) or through Twitter in [@AlejandroSempri](https://twitter.com/AlejandroSempri) (I speak Spanish and English).
 
